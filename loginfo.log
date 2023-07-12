@@ -192,3 +192,11 @@
 2022-03-21 13:58:39,969 https://tynerpondfarm.com:443 "GET /collections/pasture-raised-beef HTTP/1.1" 200 None
 2022-03-21 13:58:57,172 Starting new HTTPS connection (1): tynerpondfarm.com:443
 2022-03-21 13:58:57,300 https://tynerpondfarm.com:443 "GET /collections/pasture-raised-beef HTTP/1.1" 200 None
+{"referral_code": "52d6ce", "message": "Sign up", "time": "2022-04-18T18:13:33.990874"}
+{"referral_code": "52d6ce", "message": "Sign up", "time": "2022-04-18T18:13:35.313766"}
+{"referral_code": "52d6ce", "message": "Sign up", "time": "2022-04-18T18:13:35.654848"}
+{"referral_code": "52d6ce", "message": "Sign up", "time": "2022-04-18T18:13:35.920794"}
+{"referral_code": "52d6ce", "message": "Sign up", "time": "2022-04-18T18:13:36.471861"}
+{"referral_code": "52d6ce", "message": "Sign up", "time": "2022-04-18T18:13:36.752925"}
+{"referral_code": "52d6ce", "message": "Sign up", "time": "2022-04-18T18:13:37.112807"}
+{"referral_code": "52d6ce", "message": "Sign up", "time": "2022-04-18T18:13:37.516623"}
